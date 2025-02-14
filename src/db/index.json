@@ -29,7 +29,7 @@
       "username": "admin_user",
       "fullName": "Admin User",
       "email": "admin@example.com",
-       "role": "admin",
+      "role": "admin",
       "password": "adminpassword789",
       "profileImg": "https://example.com/images/profiles/admin_user.jpg",
       "createdAt": "2021-01-01",
@@ -42,10 +42,46 @@
       "username": "elnurxo",
       "email": "elnur.khalilov@code.edu.az",
       "password": "Elnur123",
-       "role": "client",
+      "role": "client",
       "profileImg": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
       "lastLogin": "2023-07-15",
       "createdAt": "2025-02-09T08:14:12.347Z",
+      "bio": ""
+    },
+    {
+      "id": "677b",
+      "fullName": "orxan aslanov",
+      "username": "orxan1997",
+      "email": "orxan1997@gmail.com",
+      "password": "12345",
+      "role": "client",
+      "profileImage": "https://avatar.iran.liara.run/public/41",
+      "createdAt": "2025-02-14T16:45:39.510Z",
+      "lastLogin": "2025-02-14T16:45:39.510Z",
+      "bio": ""
+    },
+    {
+      "id": "17b3",
+      "fullName": "leman",
+      "username": "leman11",
+      "email": "leman1997@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "profileImage": "https://avatar.iran.liara.run/public/41",
+      "createdAt": "2025-02-14T16:47:56.335Z",
+      "lastLogin": "2025-02-14T16:47:56.335Z",
+      "bio": ""
+    },
+    {
+      "id": "4740",
+      "fullName": "fidan abdullayev",
+      "username": "fidan2005",
+      "email": "fidan@gmail.com",
+      "password": "12345",
+      "role": "client",
+      "profileImage": "https://avatar.iran.liara.run/public/41",
+      "createdAt": "2025-02-14T16:49:33.283Z",
+      "lastLogin": "2025-02-14T16:49:33.283Z",
       "bio": ""
     }
   ]
