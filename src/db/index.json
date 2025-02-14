@@ -83,6 +83,18 @@
       "createdAt": "2025-02-14T16:49:33.283Z",
       "lastLogin": "2025-02-14T16:49:33.283Z",
       "bio": ""
+    },
+    {
+      "id": "c229",
+      "fullName": "aysu dibirova",
+      "username": "aysu",
+      "email": "aysu@gmail.com",
+      "password": "12345",
+      "role": "client",
+      "profileImage": "https://avatar.iran.liara.run/public/41",
+      "createdAt": "2025-02-14T16:51:49.294Z",
+      "lastLogin": "2025-02-14T16:51:49.294Z",
+      "bio": ""
     }
   ]
 }

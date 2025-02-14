@@ -36,7 +36,7 @@ registerForm.addEventListener("submit", async function (e) {
     const postReponse = await controller.post(endpoints.users, newUser);
 
     if(postReponse.data){
-         window.location.replace("http://localhost:5176/login.html");2
+         window.location.replace("http://localhost:5176/login.html");
     }
   }
 });
