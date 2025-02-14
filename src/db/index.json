@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "fullName": "John Doe",
+      "email": "john.doe@example.com",
+      "role": "client",
+      "password": "securepassword123",
+      "profileImg": "https://example.com/images/profiles/john_doe.jpg",
+      "createdAt": "2023-07-15",
+      "lastLogin": "2023-07-15",
+      "bio": "Travel enthusiast who loves exploring new places and trying exotic cuisines."
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "fullName": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "role": "client",
+      "password": "mypassword456",
+      "profileImg": "https://example.com/images/profiles/jane_smith.jpg",
+      "createdAt": "2022-10-20",
+      "lastLogin": "2023-07-15",
+      "bio": "Adventure seeker and avid photographer."
+    },
+    {
+      "id": "3",
+      "username": "admin_user",
+      "fullName": "Admin User",
+      "email": "admin@example.com",
+       "role": "admin",
+      "password": "adminpassword789",
+      "profileImg": "https://example.com/images/profiles/admin_user.jpg",
+      "createdAt": "2021-01-01",
+      "lastLogin": "2023-07-15",
+      "bio": "Managing platform operations with a passion for customer satisfaction."
+    },
+    {
+      "id": "a188",
+      "fullName": "Elnur Khalilov",
+      "username": "elnurxo",
+      "email": "elnur.khalilov@code.edu.az",
+      "password": "Elnur123",
+       "role": "client",
+      "profileImg": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+      "lastLogin": "2023-07-15",
+      "createdAt": "2025-02-09T08:14:12.347Z",
+      "bio": ""
+    }
+  ]
+}
