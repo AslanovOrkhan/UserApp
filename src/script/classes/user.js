@@ -10,4 +10,5 @@ export default class User{
         this.lastLogin= new Date();
         this.bio = "";
     }
+    
 }
