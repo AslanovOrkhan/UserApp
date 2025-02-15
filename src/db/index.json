@@ -143,6 +143,18 @@
       "createdAt": "2025-02-15T06:50:40.645Z",
       "lastLogin": "2025-02-15T06:50:40.645Z",
       "bio": ""
+    },
+    {
+      "id": "3c6a",
+      "fullName": "aydan ismayilova",
+      "username": "aydan123",
+      "email": "aydan@gmail.com",
+      "password": "12345",
+      "role": "client",
+      "profileImage": "https://avatar.iran.liara.run/public/41",
+      "createdAt": "2025-02-15T06:53:36.270Z",
+      "lastLogin": "2025-02-15T06:53:36.270Z",
+      "bio": ""
     }
   ]
 }

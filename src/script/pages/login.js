@@ -19,7 +19,8 @@ loginForm.addEventListener("submit", async function (e) {
   });
   if (checkUser) {
     localStorage.setItem("userId", JSON.stringify(checkUser.id));
-    window.location.replace("http://localhost:5175/user.html");
+    window.location.href = './user.html'
+    // window.location.replace("http://localhost:5175/user.html");
   } else {
     window.alert("incorrect pasword or email");
   }
