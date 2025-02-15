@@ -95,6 +95,54 @@
       "createdAt": "2025-02-14T16:51:49.294Z",
       "lastLogin": "2025-02-14T16:51:49.294Z",
       "bio": ""
+    },
+    {
+      "id": "c832",
+      "fullName": "pervaz abdullayev",
+      "username": "pervaz123",
+      "email": "pervaz@gmail.com",
+      "password": "12345",
+      "role": "client",
+      "profileImage": "https://avatar.iran.liara.run/public/41",
+      "createdAt": "2025-02-15T06:36:20.750Z",
+      "lastLogin": "2025-02-15T06:36:20.750Z",
+      "bio": ""
+    },
+    {
+      "id": "4115",
+      "fullName": "leman hesimova",
+      "username": "leman123",
+      "email": "leman@gmail.com",
+      "password": "12345",
+      "role": "client",
+      "profileImage": "https://avatar.iran.liara.run/public/41",
+      "createdAt": "2025-02-15T06:37:44.832Z",
+      "lastLogin": "2025-02-15T06:37:44.832Z",
+      "bio": ""
+    },
+    {
+      "id": "057d",
+      "fullName": "nermine baxisova",
+      "username": "nermine123",
+      "email": "nermine@gmail.com",
+      "password": "12345",
+      "role": "client",
+      "profileImage": "https://avatar.iran.liara.run/public/41",
+      "createdAt": "2025-02-15T06:47:02.952Z",
+      "lastLogin": "2025-02-15T06:47:02.952Z",
+      "bio": ""
+    },
+    {
+      "id": "238c",
+      "fullName": "dunya ismayilova",
+      "username": "dunya",
+      "email": "dunya@gmail.com",
+      "password": "12345",
+      "role": "client",
+      "profileImage": "https://avatar.iran.liara.run/public/41",
+      "createdAt": "2025-02-15T06:50:40.645Z",
+      "lastLogin": "2025-02-15T06:50:40.645Z",
+      "bio": ""
     }
   ]
 }
